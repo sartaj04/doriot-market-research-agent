@@ -170,3 +170,19 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 .DS_Store
+
+
+db-scripts/csv_files/*
+
+.idea/
+**/.idea/
+
+output/
+db-scripts/output/*
+/.idea
+.idea/doriot-market-research-agent.iml
+/.idea/inspectionProfiles
+.idea/modules.xml
+.idea/vcs.xml
+/db-scripts/output
+/output
