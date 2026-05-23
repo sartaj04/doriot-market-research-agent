@@ -1,0 +1,1 @@
+from .embeddings import compute_text_embedding
