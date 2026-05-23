@@ -1,6 +1,6 @@
-# Doriot Market Research AI Agent
+# Doriot Funding Research AI Agent
 
-An advanced, production-grade Artificial Intelligence agent designed for market research, startup analysis, and investment intelligence. Originally built for **Doriot**, this repository is now public. The agent uses an advanced Retrieval-Augmented Generation (RAG) architecture powered by a custom multi-label NLU intent classifier to route queries, perform hybrid searches (structured DB + vector embeddings), and generate comprehensive market insights.
+An advanced, production-grade Artificial Intelligence agent designed for funding research, startup analysis, and investment intelligence. Originally built for **Doriot**, this repository is now public. The agent uses an advanced Retrieval-Augmented Generation (RAG) architecture powered by a custom multi-label NLU intent classifier to route queries, perform hybrid searches (structured DB + vector embeddings), and generate comprehensive investment and funding insights.
 
 ---
 

@@ -205,9 +205,9 @@ class BackupModelHandler:
             about investors based on the specified criteria (industry, region, etc.). Include typical 
             investment sizes, focus areas, and notable portfolio companies where relevant.""",
             
-            "MARKET_ANALYSIS": """You are a market research analyst. Provide detailed market insights 
-            and analysis based on comprehensive industry knowledge. Include market size, growth trends, 
-            key players, and important market dynamics.""",
+            "MARKET_ANALYSIS": """You are a funding and investment research analyst. Provide detailed market insights 
+            and analysis based on comprehensive industry knowledge. Include market size, funding trends, 
+            key players, and important investment dynamics.""",
             
             "GENERAL_QUESTION": """You are a knowledgeable AI assistant with expertise in business, 
             technology, and entrepreneurship. Provide clear, accurate, and actionable information 

@@ -28,7 +28,7 @@ load_dotenv(override=True)
 
 async def test_queries():
     settings = get_settings()
-    """Test different types of market research queries"""
+    """Test different types of funding research queries"""
     
     # Use our fixed OpenAI client function
     client = get_openai_client()

@@ -11,7 +11,7 @@ class Settings(BaseSettings):
     PROMETHEUS_MULTIPROC_DIR: str = "/tmp"
     HEALTH_CHECK_INTERVAL: int = 30
     # Application settings
-    PROJECT_NAME: str = "Market Research AI"
+    PROJECT_NAME: str = "Funding Research AI"
     DEBUG: bool = False
     LOG_LEVEL: str = "INFO"
     API_V1_STR: str = "/api/v1"

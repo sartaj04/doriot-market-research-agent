@@ -36,7 +36,7 @@ DB_PARAMS = {
     "port": DB_PORT
 }
 
-# Simplified search terms relevant for startup market research
+# Simplified search terms relevant for startup funding research
 QUERY = "startup OR funding OR venture capital OR seed investment OR series A OR acquisitions OR startup trends OR emerging markets OR startup growth OR investments OR acquisition OR IPO OR market trends"
 
 NEWSAPI_EARLIEST_DATE = datetime.datetime.strptime("2025-01-03", "%Y-%m-%d").date()
